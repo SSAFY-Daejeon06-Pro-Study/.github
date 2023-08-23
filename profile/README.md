@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=350&section=header&text=Welcome!&fontSize=90&fontAlignY=45&desc=%20King%20of%20Algorithm&descAlign=65&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=350&section=header&text=Welcome!&fontSize=90&fontAlignY=50&desc=%20King%20of%20Algorithm&descAlign=65&descAlignY=65)
 
 # **👨‍💻 소개**
 - SSAFY 10기 B형 정예 멤버들
@@ -25,9 +25,9 @@
             <a href="https://github.com/kang-seongbeom">강성범</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/KimYongJun12"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/97210866?s=400&v=4"/></a>
+            <a href="https://github.com/b9s2w6"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48309725?v=4"/></a>
             <br />
-            <a href="https://github.com/KimYongJun12">백성욱 수정필요</a>
+            <a href="https://github.com/b9s2w6">백성욱</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/godjuhyuk"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/59328108?v=4"/></a>
