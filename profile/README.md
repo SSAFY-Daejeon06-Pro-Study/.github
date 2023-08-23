@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=350&section=header&text=Welcome!&fontSize=90&fontAlignY=40&desc=%20King%20of%20Algorithm&descAlign=65&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=350&section=header&text=Welcome!&fontSize=90&fontAlignY=45&desc=%20King%20of%20Algorithm&descAlign=65&descAlignY=60)
 
 # **👨‍💻 소개**
 - SSAFY 10기 B형 정예 멤버들
